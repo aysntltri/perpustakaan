@@ -1,0 +1,65 @@
+body {
+  background: #e6f4ff;
+  font-family:
+    Segoe UI,
+    Tahoma,
+    sans-serif;
+}
+
+.login-box {
+  width: 350px;
+  margin: 100px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.logo {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+input,
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #6ec1ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #4faee3;
+}
+
+.menu {
+  width: 500px;
+  margin: 80px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.menu a {
+  display: block;
+  padding: 10px;
+  background: #6ec1ff;
+  margin: 10px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background: #4faee3;
+}
